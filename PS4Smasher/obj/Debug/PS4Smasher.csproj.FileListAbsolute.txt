@@ -1,0 +1,6 @@
+c:\users\dean\documents\visual studio 2013\Projects\PS4Smasher\PS4Smasher\bin\Debug\PS4Smasher.exe.config
+c:\users\dean\documents\visual studio 2013\Projects\PS4Smasher\PS4Smasher\bin\Debug\PS4Smasher.exe
+c:\users\dean\documents\visual studio 2013\Projects\PS4Smasher\PS4Smasher\bin\Debug\PS4Smasher.pdb
+c:\users\dean\documents\visual studio 2013\Projects\PS4Smasher\PS4Smasher\obj\Debug\PS4Smasher.csprojResolveAssemblyReference.cache
+c:\users\dean\documents\visual studio 2013\Projects\PS4Smasher\PS4Smasher\obj\Debug\PS4Smasher.exe
+c:\users\dean\documents\visual studio 2013\Projects\PS4Smasher\PS4Smasher\obj\Debug\PS4Smasher.pdb
